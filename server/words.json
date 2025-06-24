@@ -1,0 +1,23 @@
+
+[
+  {
+    "kelime": "Pizza",
+    "yasaklilar": ["peynir", "domates", "hamur", "italya", "fırın"]
+  },
+  {
+    "kelime": "Bilgisayar",
+    "yasaklilar": ["teknoloji", "internet", "klavye", "ekran", "fare"]
+  },
+  {
+    "kelime": "Deniz",
+    "yasaklilar": ["su", "kum", "plaj", "gemi", "yüzmek"]
+  },
+  {
+    "kelime": "Kitap",
+    "yasaklilar": ["okumak", "sayfa", "kütüphane", "yazar", "roman"]
+  },
+  {
+    "kelime": "Telefon",
+    "yasaklilar": ["arama", "mesaj", "ekran", "mobil", "şarj"]
+  }
+]
